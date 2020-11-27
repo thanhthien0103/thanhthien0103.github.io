@@ -1,0 +1,2177 @@
+{
+    "login": {
+        "title": "Login",
+        "text": "Đăng nhập",
+        "description": "Đăng nhập"
+    },
+    "loginIntoTheSystem": {
+        "title": "Login into the system",
+        "text": "Đăng nhập vào hệ thống",
+        "description": "Đăng nhập vào hệ thống"
+    },
+    "loginInformationInvalid": {
+        "title": "Login information invalid",
+        "text": "Sai thông tin đăng nhập",
+        "description": "Sai thông tin đăng nhập"
+    },
+    "userName": {
+        "title": "User name",
+        "text": "Tên tài khoản",
+        "description": "Tên tài khoản"
+    },
+    "password": {
+        "title": "Password",
+        "text": "Mật khẩu",
+        "description": "Mật khẩu"
+    },
+    "rememberPassword": {
+        "title": "Remember password?",
+        "text": "Nhớ mật khẩu?",
+        "description": "Nhớ mật khẩu?"
+    },
+    "forgotPassword": {
+        "title": "Forgot password?",
+        "text": "Quên mật khẩu?",
+        "description": "Quên mật khẩu?"
+    },
+    "processing": {
+        "title": "Processing",
+        "text": "Đang xử lý",
+        "description": "Đang xử lý"
+    },
+    "personalInformation": {
+        "title": "Personal Information",
+        "text": "Thông tin cá nhân",
+        "description": "Thông tin cá nhân"
+    },
+    "fullName": {
+        "title": "Full name",
+        "text": "Họ và tên",
+        "description": "Họ và tên"
+    },
+    "gender": {
+        "title": "Gender",
+        "text": "Giới tính",
+        "description": "Giới tính"
+    },
+    "male": {
+        "title": "Male",
+        "text": "Nam",
+        "description": "Nam"
+    },
+    "female": {
+        "title": "Female",
+        "text": "Nữ",
+        "description": "Nữ"
+    },
+    "address": {
+        "title": "Address",
+        "text": "Địa chỉ",
+        "description": "Địa chỉ"
+    },
+    "email": {
+        "title": "Email",
+        "text": "Email",
+        "description": "Email"
+    },
+    "numberPhone": {
+        "title": "Number phone",
+        "text": "Số điện thoại",
+        "description": "Số điện thoại"
+    },
+    "phone": {
+        "title": "Phone",
+        "text": "Điện thoại",
+        "description": "Điện thoại"
+    },
+    "close": {
+        "title": "Close",
+        "text": "Đóng",
+        "description": "Đóng"
+    },
+    "upload": {
+        "title": "Upload",
+        "text": "Cập nhật",
+        "description": "Cập nhật hình ảnh"
+    },
+    "logout": {
+        "title": "Logout",
+        "text": "Đăng xuất",
+        "description": "Đăng xuất"
+    },
+    "editInformation": {
+        "title": "Edit information",
+        "text": "Cập nhật thông tin",
+        "description": "Cập nhật thông tin"
+    },
+    "config": {
+        "title": "Config",
+        "text": "Cài đặt",
+        "description": "Càf đặt"
+    },
+    "editPersonalInformation": {
+        "title": "Edit personal information",
+        "text": "Cập nhật thông tin cá nhân",
+        "description": "Cập nhật thông tin cá nhân"
+    },
+    "saveChanges": {
+        "title": "Save changes",
+        "text": "Lưu thay đổi",
+        "description": "Lưu thay đổi"
+    },
+    "pleaseEnterYourFullName": {
+        "title": "Please enter your full name",
+        "text": "Vui lòng nhập họ và tên",
+        "description": "Vui lòng nhập họ và tên"
+    },
+    "pleaseEnterYourEmail": {
+        "title": "Please enter your email",
+        "text": "Vui lòng nhập email",
+        "description": "Vui lòng nhập email"
+    },
+    "emailInvalidPattern": {
+        "title": "Email invalid pattern",
+        "text": "Email không hợp lệ",
+        "description": "Email không hợp lệ"
+    },
+    "pleaseEnterYourNumberPhone": {
+        "title": "Please enter your number phone",
+        "text": "Vui lòng nhập số điện thoại",
+        "description": "Vui lòng nhập số điện thoại"
+    },
+    "numberPhoneInvalidPattern": {
+        "title": "Number phone invalid pattern",
+        "text": "Số điện thoại không hợp lệ",
+        "description": "Số điện thoại không hợp lệ"
+    },
+    "editInformationSuccessfully": {
+        "title": "Edit information successfully",
+        "text": "Cập nhật thông tin thành công",
+        "description": "Cập nhật thông tin thành công"
+    },
+    "notification": {
+        "title": "Notification",
+        "text": "Thông báo",
+        "description": "Thông báo"
+    },
+    "changePassword": {
+        "title": "Change password",
+        "text": "Đổi mật khẩu",
+        "description": "Đổi mật khẩus"
+    },
+    "oldPassword": {
+        "title": "Old password",
+        "text": "Mật khẩu cũ",
+        "description": "Mật khẩu cũ"
+    },
+    "newPassword": {
+        "title": "New password",
+        "text": "Mật khẩu mới",
+        "description": "Mật khẩu mới"
+    },
+    "enterNewPasswordAgain": {
+        "title": "Enter new password again",
+        "text": "Nhập lại mật khẩu mới",
+        "description": "Nhập lại mật khẩu mới"
+    },
+    "pleaseEnterOldPassword": {
+        "title": "Please enter your password",
+        "text": "Vui lòng nhập mật khẩu cũ",
+        "description": "Vui lòng nhập mật khẩu cũ"
+    },
+    "pleaseEnterNewPassword": {
+        "title": "Please enter your new password",
+        "text": "Vui lòng nhập mật khẩu mới",
+        "description": "Vui lòng nhập mật khẩu mới"
+    },
+    "pleaseEnterConfirmPassword": {
+        "title": "Please enter confirm password",
+        "text": "Vui lòng nhập lại mật khẩu mới",
+        "description": "Vui lòng nhập lại mật khẩu mới"
+    },
+    "newPasswordAndConfirmPasswordDidntMatch": {
+        "title": "New password and confirm password didn't match",
+        "text": "Nhập lại mật khẩu không đúng",
+        "description": "Nhập lại mật khẩu không đúng"
+    },
+    "passwordMustHaveALeast8CharactersIncludesUppercaseLowercaseAndNumber": {
+        "title": "Password must have a least 8 characters includes an uppercase character, an lowercase character and number",
+        "text": "Mật khẩu phải chứa ít nhất 8 ký tự bao gồm chữ hoa, chữ thường và số",
+        "description": "Mật khẩu phải chứa ít nhất 8 ký tự bao gồm chữ hoa, chữ thường và số"
+    },
+    "pleaseEnterAllInformationRequired": {
+        "title": "Please enter all information required",
+        "text": "Vui lòng nhập đầy đủ thông tin bắt buộc",
+        "description": "Vui lòng nhập đầy đủ thông tin bắt buộc"
+    },
+    "pleaseEnterCorrectDatabeforeYourSubmitForm": {
+        "title": "Please enter correct data before your submit form",
+        "text": "Vui lòng nhập đúng thông tin yêu cầu trước khi thực hiện thao tác này",
+        "description": "Vui lòng nhập đúng thông tin yêu cầu trước khi thực hiện thao tác này"
+    },
+    "anErrorOccurredDuringProcessing": {
+        "title": "An error occurred during processing",
+        "text": "Đã có lỗi xảy ra trong quá trình xử lý",
+        "description": "Đã có lỗi xảy ra trong quá trình xử lý"
+    },
+    "users": {
+        "title": " Users",
+        "text": "Tài khoản người dùng",
+        "description": "Tài khoản người dùng"
+    },
+    "usersList": {
+        "title": "Users list",
+        "text": "Danh sách tài khoản người dùng",
+        "description": "Danh sách tài khoản người dùng"
+    },
+    "search": {
+        "title": "Search",
+        "text": "Tìm kiếm",
+        "description": "Tìm kiếm"
+    },
+    "display": {
+        "title": "Display",
+        "text": "Hiển thị",
+        "description": "Hiển thị"
+    },
+    "row": {
+        "title": "row",
+        "text": "Dòng",
+        "description": "Dòng"
+    },
+    "page": {
+        "title": "page",
+        "text": "Trang",
+        "description": "Trang"
+    },
+    "stt": {
+        "title": "No.",
+        "text": "STT",
+        "description": "STT"
+    },
+    "status": {
+        "title": "Status",
+        "text": "Trạng thái",
+        "description": "Trạng thái"
+    },
+    "accountType": {
+        "title": "Account type",
+        "text": "Loại tài khoản",
+        "description": "Loại tài khoản"
+    },
+    "active": {
+        "title": "Active",
+        "text": "Kích hoạt",
+        "description": "Kích hoạt"
+    },
+    "locked": {
+        "title": "Locked",
+        "text": "Đã khóa",
+        "description": "Đã khóa"
+    },
+    "admin": {
+        "title": "Admin",
+        "text": "Admin",
+        "description": "Admin"
+    },
+    "user": {
+        "title": "User",
+        "text": "Người dùng",
+        "description": "Người dùng"
+    },
+    "add": {
+        "title": "Add",
+        "text": "Thêm",
+        "description": "Thêm"
+    },
+    "action": {
+        "title": "Action",
+        "text": "Thao tác",
+        "description": "Thao tác"
+    },
+    "thereArentNoCurrentlyDataYet": {
+        "title": "There aren't currently data yet",
+        "text": "Hiện tại không có dữ liệu",
+        "description": "Hiện tại không có dữ liệu"
+    },
+    "addNewUser": {
+        "title": "Add new user",
+        "text": "Thêm mới người dùng",
+        "description": "Thêm mới người dùng"
+    },
+    "updateUserInformation": {
+        "title": "Update user information",
+        "text": "Cập nhật thông tin người dùng",
+        "description": "Cập nhật thông tin người dùng"
+    },
+    "home": {
+        "title": "Home",
+        "text": "Trang chủ",
+        "description": "Trang chủ"
+    },
+    "pleaseEnterUserName": {
+        "title": "Please enter user name",
+        "text": "Vui lòng nhập tên tài khoản",
+        "description": "Vui lòng nhập tên tài khoản"
+    },
+    "pleaseEnterFullName": {
+        "title": "Please enter full name",
+        "text": "Vui lòng nhập họ và tên",
+        "description": "Vui lòng nhập họ và tên"
+    },
+    "pleaseEnterEmail": {
+        "title": "Please enter email",
+        "text": "Vui lòng nhập email",
+        "description": "Vui lòng nhập email"
+    },
+    "pleaseEnterNumberPhone": {
+        "title": "Please enter number phone",
+        "text": "Vui lòng nhập số điện thoại",
+        "description": "Vui lòng nhập số điện thoại"
+    },
+    "userNameDoesntContainUnicodeUppercaseSpecialCharactersSpacesAtLeast3CharactersAndMaximum15Characters": {
+        "title": "User name doesn't contain unicode, uppercase, special characters, spaces, at least 3 characters and maximum 15 characters",
+        "text": "Tên tài khoản không có kí tự unicode, chữ in hoa, kí tự đặc biệt, khoảng trống, ít nhất 3 và nhiều nhất 15 ký tự",
+        "description": "Tên tài khoản không có kí tự unicode, chữ in hoa,, kí tự đặc biệt khoảng trống, ít nhất 3 và nhiều nhất 15 ký tự"
+    },
+    "editInformationUser": {
+        "title": "Edit information user",
+        "text": "Cập nhật thông tin tài khoản",
+        "description": "Cập nhật thông tin tài khoản"
+    },
+    "edit": {
+        "title": "Edit",
+        "text": "Sửa",
+        "description": "Sửa"
+    },
+    "delete": {
+        "title": "Delete",
+        "text": "Xóa",
+        "description": "Xóa"
+    },
+    "doYouWantToDeleteThisRecord": {
+        "title": "Do you want to delete this record?",
+        "text": "Bạn có chắc chắn muốn xóa?",
+        "description": "Bạn có chắc chắn muốn xóa?"
+    },
+    "agree": {
+        "title": "Agree",
+        "text": "Đồng ý",
+        "description": "Đồng ý"
+    },
+    "areYouSureWantToDeleteThisWithParamName": {
+        "title": "Are you sure want to delete: {{name}} ?",
+        "text": "Bạn có chắc chắn muốn xóa: {{name}}?",
+        "description": "Bạn có chắc chắn muốn xóa: {{name}}?"
+    },
+    "resetPassword": {
+        "title": "Reset password",
+        "text": "Khôi phục mật khẩu",
+        "description": "Khôi phục mật khẩu"
+    },
+    "areYouSureWantToResetPasswordForWithParamName": {
+        "title": "Are you sure want to reset password for user: {{name}}",
+        "text": "Bạn có chắc chắn muốn khôi phục mật khẩu cho tài khoản: {{name}}",
+        "description": "Bạn có chắc chắn muốn khôi phục mật khẩu cho tài khoản: {{name}}"
+    },
+    "productCategory": {
+        "title": "Product category",
+        "text": "Danh mục sản phẩm",
+        "description": "Danh mục sản phẩm"
+    },
+    "categories": {
+        "title": "Categories",
+        "text": "Danh sách danh mục sản phẩm",
+        "description": "Danh sách danh mục sản phẩm"
+    },
+    "categoryName": {
+        "title": "Category name",
+        "text": "Tên danh mục",
+        "description": "Tên danh mục"
+    },
+    "homeName": {
+        "title": "Home name",
+        "text": "Tên hiển thị trang chủ",
+        "description": "Tên hiển thị ở trang chủ"
+    },
+    "displayOrder": {
+        "title": "Display order",
+        "text": "Thứ tự hiển thị",
+        "description": "Thứ tự hiển thị"
+    },
+    "showOnHome": {
+        "title": "Show on home",
+        "text": "Hiển thị trang chủ",
+        "description": "Hiển thị trang chủ"
+    },
+    "yes": {
+        "title": "Yes",
+        "text": "Có",
+        "description": "Có"
+    },
+    "no": {
+        "title": "No",
+        "text": "Không",
+        "description": "Không"
+    },
+    "description": {
+        "title": "Description",
+        "text": "Mô tả",
+        "description": "Mô tả"
+    },
+    "icon": {
+        "title": "Icon",
+        "text": "Icon",
+        "description": "Icon"
+    },
+    "addProductCategory": {
+        "title": "Add product category",
+        "text": "Thêm mới danh mục sản phẩm",
+        "description": "Thêm mới danh mục sản phẩm"
+    },
+    "pleaseEnterCategoryName": {
+        "title": "Please enter category name",
+        "text": "Vui lòng nhập tên danh mục",
+        "description": "Vui lòng nhập tên danh mục"
+    },
+    "pleaseEnterIconForCategoryThis": {
+        "title": "Please enter icon for category this",
+        "text": "Vui lòng nhập icon cho danh mục này",
+        "description": "Vui lòng nhập icon cho danh mục này"
+    },
+    "pleaseEnterDisplayOrder": {
+        "title": "Please enter display order",
+        "text": "Vui lòng nhập thứ tự hiển thị",
+        "description": "Vui lòng nhập thứ tự hiển thị"
+    },
+    "pleaseEnterNumber": {
+        "title": "Please enter a number",
+        "text": "Vui lòng nhập số",
+        "description": "Vui lòng nhập số"
+    },
+    "contentIsTooShort": {
+        "title": "The content is too short",
+        "text": "Nội dung quá ngắn",
+        "description": "Nội dung quá ngắn"
+    },
+    "addChild": {
+        "title": "Add child",
+        "text": "Thêm",
+        "description": "Thêm mới nhánh con"
+    },
+    "addChildProductCategory": {
+        "title": "Add child product category",
+        "text": "Thêm mới danh mục con",
+        "description": "Thêm mới danh mục con"
+    },
+    "editProductCategory": {
+        "title": "Edit product category",
+        "text": "Cập nhật danh mục sản phẩm",
+        "description": "Cập nhật danh mục sản phẩm"
+    },
+    "colorCategory": {
+        "title": "Color category",
+        "text": "Danh mục màu sắc",
+        "description": "Danh mục màu sắc"
+    },
+    "colors": {
+        "title": "Colors",
+        "text": "Danh sách danh mục màu sắc",
+        "description": "Danh sách danh mục màu sắc"
+    },
+    "colorKey": {
+        "title": "Color key",
+        "text": "Key",
+        "description": "Key"
+    },
+    "colorName": {
+        "title": "Color name",
+        "text": "Tên màu",
+        "description": "Tên màu"
+    },
+    "addColorCategory": {
+        "title": "Add color category",
+        "text": "Thêm mới danh mục màu sắc",
+        "description": "Thêm mới danh mục màu sắc"
+    },
+    "pleaseEnterColorKey": {
+        "title": "Please enter color key",
+        "text": "Vui lòng nhập key",
+        "description": "Vui lòng nhập key"
+    },
+    "pleaseEnterColorName": {
+        "title": "Please enter color name",
+        "text": "Vui lòng nhập tên màu sắc",
+        "description": "Vui lòng nhập tên màu sắc"
+    },
+    "editColorCategory": {
+        "title": "Edit color category",
+        "text": "Cập nhật danh mục màu sắc",
+        "description": "Cập nhật danh mục màu sắc"
+    },
+    "giftCategory": {
+        "title": "Gift category",
+        "text": "Danh mục quà tặng",
+        "description": "Danh mục quà tặng"
+    },
+    "gifts": {
+        "title": "Gifts",
+        "text": "Danh sách danh mục quà tặng",
+        "description": "Danh sách danh mục quà tặng"
+    },
+    "giftKey": {
+        "title": "Gift key",
+        "text": "Key",
+        "description": "Key"
+    },
+    "giftName": {
+        "title": "Gift name",
+        "text": "Tên quà tặng",
+        "description": "Tên quà tặng"
+    },
+    "pleaseEnterMaximumParamCharacters": {
+        "title": "Please enter maximum {{param}} characters",
+        "text": "Vui lòng nhập tối đa {{param}} ký tự",
+        "description": "Vui lòng nhập tối đa {{param}} ký tự"
+    },
+    "pleaseEnterMinimumParamCharacters": {
+        "title": "Please enter minimum {{param}} characters",
+        "text": "Vui lòng nhập ít nhất {{param}} ký tự",
+        "description": "Vui lòng nhập ít nhất {{param}} ký tự"
+    },
+    "pleaseDoNotEnterUnicode": {
+        "title": "Please don't enter unicode",
+        "text": "Vui lòng không nhập chữ có dấu",
+        "description": "Vui lòng không nhập chữ có dấu"
+    },
+    "addGiftCategory": {
+        "title": "Add gift category",
+        "text": "Thêm mới danh mục quà tặng",
+        "description": "Thêm mới danh mục quà tặng"
+    },
+    "pleaseEnterGiftKey": {
+        "title": "Please enter gift key",
+        "text": "Vui lòng nhập key quà tặng",
+        "description": "Vui lòng nhập key quà tặng"
+    },
+    "pleaseEnterGiftName": {
+        "title": "Please enter gift category name",
+        "text": "Vui lòng nhập tên danh mục quà tặng",
+        "description": "Vui lòng nhập tên danh mục quà tặng"
+    },
+    "otherCategory": {
+        "title": "Other category",
+        "text": "Danh mục khác",
+        "description": "Danh mục khác"
+    },
+    "otherCategories": {
+        "title": "Other categories",
+        "text": "Danh sách danh mục khác",
+        "description": "Danh sách danh mục khác"
+    },
+    "otherCategoryName": {
+        "title": "Other category name",
+        "text": "Tên danh mục khác",
+        "description": "Tên danh mục khác"
+    },
+    "addOtherCategory": {
+        "title": "Add other category",
+        "text": "Thêm mới danh mục khác",
+        "description": "Thêm mới danh mục khác"
+    },
+    "editOtherCategory": {
+        "title": "Edit other category",
+        "text": "Cập nhật thông tin danh mục khác",
+        "description": "Cập nhật thông tin danh mục khác"
+    },
+    "pleaseEnterOtherCategoryName": {
+        "title": "Please enter other category name",
+        "text": "Please enter other category name",
+        "Description": "Vui lòng nhập tên danh mục khác"
+    },
+    "filter": {
+        "title": "Filter",
+        "text": "Lộc dữ liệu",
+        "description": "Lộc dữ liệu"
+    },
+    "product": {
+        "title": "Product",
+        "text": "Sản phẩm",
+        "description": "Sản phẩm"
+    },
+    "products": {
+        "title": "Products",
+        "text": "Danh sách sản phẩm",
+        "description": "Danh sách sản phẩm"
+    },
+    "category": {
+        "title": "Category",
+        "text": "Danh mục",
+        "description": "Danh mục"
+    },
+    "productName": {
+        "title": "Product name",
+        "text": "Tên sản phẩm",
+        "description": "Tên sản phẩm"
+    },
+    "quantity": {
+        "title": "Quantity",
+        "text": "Số lượng",
+        "description": "Số lượng"
+    },
+    "viewCount": {
+        "title": "View count",
+        "text": "Lượt xem",
+        "description": "Lượt xem"
+    },
+    "hot": {
+        "title": "Hot",
+        "text": "Hot",
+        "description": "Hot"
+    },
+    "addProduct": {
+        "title": "Add product",
+        "text": "Thêm mới sản phẩm",
+        "description": "Thêm mới sản phẩm"
+    },
+    "descriptionName": {
+        "title": "Description name",
+        "text": "Tên mô tả",
+        "description": "Tên mô tả"
+    },
+    "option": {
+        "title": "Option",
+        "text": "Nếu có",
+        "description": "Nếu có"
+    },
+    "detail": {
+        "title": "Detail",
+        "text": "Chi tiết",
+        "description": "Chi tiết"
+    },
+    "goBack": {
+        "title": "Go back",
+        "text": "Trở về",
+        "description": "Trở về"
+    },
+    "selectOtherCategory": {
+        "title": "Select other category",
+        "text": "Chọn danh mục khác",
+        "description": "Chọn danh mục khác"
+    },
+    "selectProductCategory": {
+        "title": "Select product category",
+        "text": "Chọn danh mục sản phẩm",
+        "description": "Chọn danh mục sản phẩm"
+    },
+    "pleaseEnterNameForThisProduct": {
+        "title": "Please enter name for this product",
+        "text": "Vui lòng nhập tên sản phẩm",
+        "desccription": "Vui lòng nhập tên sản phẩm"
+    },
+    "editProduct": {
+        "title": "Edit product",
+        "text": "Cập nhật thông tin sản phẩm",
+        "description": "Cập nhật thông tin sản phẩm"
+    },
+    "addChildrenProduct": {
+        "title": "Add children product",
+        "text": "Thêm mới sản phẩm con",
+        "description": "Thêm mới sản phẩm con"
+    },
+    "productColor": {
+        "title": "Product color",
+        "text": "Màu sắc sản phẩm",
+        "description": "Màu sắc sản phẩm"
+    },
+    "technicalData": {
+        "title": "Technical data",
+        "text": "Thông số kỹ thuật",
+        "description": "Thông số kỹ thuật"
+    },
+    "promotion": {
+        "title": "Promotion",
+        "text": "Khuyến mãi",
+        "description": "Khuyến mãi"
+    },
+    "color": {
+        "title": "Color",
+        "text": "Màu sắc",
+        "description": "Màu sắc"
+    },
+    "price": {
+        "title": "Price",
+        "text": "Giá",
+        "description": "Giá"
+    },
+    "percent": {
+        "title": "Percent",
+        "text": "Giảm",
+        "description": "Giảm"
+    },
+    "reprecent": {
+        "title": "Represent",
+        "text": "Đại diện",
+        "description": "Đại diện"
+    },
+    "image": {
+        "title": "Image",
+        "text": "Hình",
+        "description": "Hình"
+    },
+    "addProductColor": {
+        "title": "Add product color",
+        "text": "Thêm mới màu sắc sản phẩm",
+        "description": "Thêm mới màu sắc sản phẩm"
+    },
+    "selectImage": {
+        "title": "Select",
+        "text": "Chọn hình",
+        "description": "Chọn hình"
+    },
+    "pleaseSelectColor": {
+        "title": "Please select color",
+        "text": "Vui lòng chọn màu sắc",
+        "description": "Vui lòng chọn màu sắc"
+    },
+    "pleaseSelectImage": {
+        "title": "Please select image",
+        "text": "Vui lòng chọn hình",
+        "desccription": "Vui lòng chọn hình"
+    },
+    "pleaseEnterPrice": {
+        "title": "Plesae enter price",
+        "text": "Vui lòng nhập giá tiền",
+        "description": "Vui lòng nhập giá tiền"
+    },
+    "pleaseEnterQuantity": {
+        "title": "Please enter quantity",
+        "text": "Vui lòng nhập số lượng",
+        "description": "Vui lòng nhập số lượng"
+    },
+    "viewImage": {
+        "title": "View image",
+        "text": "Xem hình",
+        "description": "Xem hình"
+    },
+    "updateImage": {
+        "title": "Update image",
+        "text": "Cập nhật hình",
+        "description": "Cập nhật hình"
+    },
+    "updatePrice": {
+        "title": "Update price",
+        "text": "Cập nhật đơn giá",
+        "description": "Cập nhật đơn giá"
+    },
+    "updatePercent": {
+        "title": "Update percent",
+        "text": "Cập nhật giảm giá",
+        "description": "Cập nhật giảm giá"
+    },
+    "updateQuantity": {
+        "title": "Update quantity",
+        "text": "Cập nhật số lượng",
+        "description": "Cập nhật số lượng"
+    },
+    "editProductColor": {
+        "title": "Edit product color",
+        "text": "Cập nhật màu sắc sản phẩm",
+        "description": "Cập nhật màu sắc sản phẩm"
+    },
+    "newPrice": {
+        "title": "New price",
+        "text": "Đơn giá mới",
+        "description": "Đơn giá mới"
+    },
+    "newQuantity": {
+        "title": "New quantity",
+        "text": "Số lượng mới",
+        "description": "Số lượng mới"
+    },
+    "newPercent": {
+        "title": "New percent",
+        "text": "Giảm giá mới",
+        "description": "Giảm giá mới"
+    },
+    "pleaseOnlyEnterNumberBetween0And100": {
+        "title": "Please only enter a number that between 0 and 100",
+        "text": "Vui lòng chỉ nhập 1 số từ 0 đến 100",
+        "description": "Vui lòng chỉ nhập 1 số từ 0 đến 100"
+    },
+    "enterAEndDate": {
+        "title": "Enter a end date",
+        "text": "Nhập ngày kết thúc",
+        "description": "Nhập ngày kết thúc"
+    },
+    "endDate": {
+        "title": "End date",
+        "text": "Ngày kết thúc",
+        "description": "Ngày kết thúc"
+    },
+    "startDate": {
+        "title": "Start date",
+        "text": "Ngày bắt đầu",
+        "description": "Ngày bắt đầu"
+    },
+    "enterAStartDate": {
+        "title": "Enter a start date",
+        "text": "Nhập ngày bắt đầu",
+        "description": "Nhập ngày bắt đầu"
+    },
+    "theFieldIsRequired": {
+        "title": "The field is required",
+        "text": "Vui lòng nhập dữ liệu trường này",
+        "description": "Vui lòng nhập dữ liệu trường này"
+    },
+    "name": {
+        "title": "Name",
+        "text": "Tên",
+        "description": "Tên"
+    },
+    "value": {
+        "title": "Value",
+        "text": "Giá trị",
+        "description": "Giá trị"
+    },
+    "addTechnicalData": {
+        "title": "Add technical data",
+        "text": "Thêm mới thông số kỹ thuật",
+        "description": "Thêm mới thông số kỹ thuật"
+    },
+    "editTechnicalData": {
+        "title": "Edit technical data",
+        "text": "Cập nhật thông số kỹ thuật",
+        "description": "Cập nhật thông số kỹ thuật"
+    },
+    "productGifts": {
+        "title": "Gift promotion for product",
+        "text": "Quà tặng đi kèm sản phẩm",
+        "description": "Quà tặng đi kèm sản phẩm"
+    },
+    "addProductGift": {
+        "title": "Add gift for prorduct",
+        "text": "Thêm quà tặng cho sản phẩm",
+        "description": "Thêm quà tặng cho sản phẩm"
+    },
+    "gift": {
+        "title": "Gift",
+        "text": "Quà tặng",
+        "description": "Quà tặng"
+    },
+    "selectGiftName": {
+        "title": "Select gift",
+        "text": "Chọn tên quà tặng",
+        "description": "Chọn tên quà tặng"
+    },
+    "editProductGift": {
+        "title": "Edit product gift",
+        "text": "Cập nhật chi tiết quà tặng cho sản phẩm",
+        "description": "Cập nhật chi tiết quà tặng cho sản phẩm"
+    },
+    "hotPromotion": {
+        "title": "Hot promotion",
+        "text": "Khuyến mãi hot",
+        "description": "Khuyến mãi hot"
+    },
+    "allStatusFilter": {
+        "title": "--- All ---",
+        "text": "--- Tất cả ----",
+        "description": "--- Tất cả ----"
+    },
+    "notStartedYet": {
+        "title": "Not started yet",
+        "text": "Chưa bắt đầu",
+        "description": "Chưa bắt đầu"
+    },
+    "happenning": {
+        "title": "Happenning",
+        "text": "Đang xảy ra",
+        "description": "Đang xảy ra"
+    },
+    "finished": {
+        "title": "Finished",
+        "text": "Đã kết thúc",
+        "description": "Đã kết thúc"
+    },
+    "programName": {
+        "title": "Program name",
+        "text": "Tên chương trình",
+        "description": "Tên chương trình"
+    },
+    "beginDate": {
+        "title": "Begin date",
+        "text": "Ngày bắt đầu",
+        "description": "Ngày bắt đầu"
+    },
+    "link": {
+        "title": "Link",
+        "text": "Liên kết",
+        "description": "Liên kết"
+    },
+    "addHotPromotion": {
+        "title": "Add hot promotion",
+        "text": "Thêm mới chương trình km hot",
+        "description": "Thêm mới chương trình km hot"
+    },
+    "editHotPromotion": {
+        "title": "Edit hot promotion",
+        "text": "Sửa thông tin chương trình km hot",
+        "description": "Sửa thông tin chương trình km hot"
+    },
+    "programPromotion": {
+        "title": "Program promotion",
+        "text": "Chương trình khuyến mãi",
+        "description": "Chương trình khuyến mãi"
+    },
+    "addProgramPromotion": {
+        "title": "Add program promotion",
+        "text": "Thêm mới chương trình khuyến mãi",
+        "description": "Thêm mới chương trình khuyến mãi"
+    },
+    "editProgramPromotion": {
+        "title": "Edit program promotion",
+        "text": "Sửa thông tin chương trình khuyến mãi",
+        "description": "Sửa thông tin chương trình khuyến mãi"
+    },
+    "slides": {
+        "title": "Slide",
+        "text": "Slide",
+        "description": "Slide"
+    },
+    "slideList": {
+        "title": "Slide list",
+        "text": "Danh sách slide",
+        "description": "Danh sách slide"
+    },
+    "slideName": {
+        "title": "Slide name",
+        "text": "Tên slide",
+        "description": "Tên slide"
+    },
+    "endowName": {
+        "title": "Endow name",
+        "text": "Tên ưu đãi",
+        "description": "Tên ưu đãi"
+    },
+    "addSlide": {
+        "title": "Add slide",
+        "text": "Thêm mới slide",
+        "description": "Thêm mới slide"
+    },
+    "slideFixed": {
+        "title": "Fixed",
+        "text": "Slide cố định",
+        "description": "Slide cố định"
+    },
+    "editSlide": {
+        "title": "Edit slide",
+        "text": "Cập nhật slide",
+        "description": "Cập nhật slide"
+    },
+    "order": {
+        "title": "Order",
+        "text": "Đơn hàng",
+        "description": "Đơn hàng"
+    },
+    "ordersList": {
+        "title": "Order list",
+        "text": "Danh sách đơn hàng",
+        "description": "Danh sách đơn hàng"
+    },
+    "approved": {
+        "'title": "Approved",
+        "text": "Đã duyệt",
+        "description": "Đã duyệt"
+    },
+    "waitApproval": {
+        "title": "Wait approval",
+        "text": "Chờ duyệt",
+        "description": "Chờ duyệt"
+    },
+    "enterAFromDate": {
+        "title": "Enter a from date",
+        "text": "Từ ngày",
+        "description": "Từ ngày"
+    },
+    "fromDate": {
+        "title": "From date",
+        "text": "Từ ngày",
+        "description": "Từ ngày"
+    },
+    "enterAToDate": {
+        "title": "Enter a to date",
+        "text": "Đến ngày",
+        "description": "Đến ngày"
+    },
+    "todate": {
+        "title": "To date",
+        "text": "Đến ngày",
+        "description": "Đến ngày"
+    },
+    "orderCode": {
+        "title": "Order code",
+        "text": "Mã đơn hàng",
+        "description": "Mã đơn hàng"
+    },
+    "customerName": {
+        "title": "Customer name",
+        "text": "Tên khách hàng",
+        "description": "Tên khách hàng"
+    },
+    "orderDate": {
+        "title": "Order date",
+        "text": "Ngày đặt hàng",
+        "description": "Ngày đặt hàng"
+    },
+    "shipNote": {
+        "title": "Ship note",
+        "text": "Lưu ý khi giao",
+        "description": "Lưu ý khi giao"
+    },
+    "shipping": {
+        "title": "Shipping",
+        "text": "Tình trạng giao hàng",
+        "description": "Tình trạng giao hàng"
+    },
+    "viewDetails": {
+        "title": "View detail",
+        "text": "Xem chi tiết",
+        "description": "Xem chi tiết"
+    },
+    "viewOrderDetails": {
+        "title": "View order detail",
+        "text": "Xem chi tiết đơn hàng",
+        "description": "Xem chi tiết đơn hàng"
+    },
+    "orderInformation": {
+        "title": "Order information",
+        "text": "Thông tin đơn hàng",
+        "description": "Thông tin đơn hàng"
+    },
+    "shipAddress": {
+        "title": "Ship address",
+        "text": "Địa chỉ nhận hàng",
+        "description": "Địa chỉ nhận hàng"
+    },
+    "productInformation": {
+        "title": "Product information",
+        "text": "Thông tin sản phẩm",
+        "description": "Thông tin sản phẩm"
+    },
+    "totalPrice": {
+        "title": "Total price",
+        "text": "Tổng tiền",
+        "description": "Tổng tiền"
+    },
+    "functionSystem": {
+        "title": "Function system",
+        "text": "Chức năng hệ thống",
+        "description": "Chức năng hệ thống"
+    },
+    "functionSystemList": {
+        "title": "Function system list",
+        "text": "Danh sách chức năng hệ thống",
+        "description": "Danh sách chức năng hệ thống"
+    },
+    "addNewFunctionRoot": {
+        "title": "Add new function root",
+        "text": "Thêm mới chức năng gốc",
+        "description": "Thêm mới chức năng gốc"
+    },
+    "theFunction": {
+        "title": "The function",
+        "text": "Chức năng",
+        "description": "Chức năng"
+    },
+    "addFunctionChild": {
+        "title": "Add function child",
+        "text": "Thêm chức năng con",
+        "description": "Thêm chức năng con"
+    },
+    "updateFunctionSystem": {
+        "title": "Update function system",
+        "text": "Cập nhật chức năng hệ thống",
+        "description": "Cập nhật chức năng hệ thống"
+    },
+    "title": {
+        "title": "Title",
+        "text": "Tên chức năng",
+        "description": "Tên chức năng"
+    },
+    "titleEng": {
+        "title": "Title english",
+        "text": "Tên chức năng (tiếng Anh)",
+        "description": "Tên chức năng (tiếng Anh)"
+    },
+    "component": {
+        "title": "Component",
+        "text": "Component",
+        "description": "Component"
+    },
+    "remake": {
+        "title": "Remake",
+        "text": "Ghi chú",
+        "description": "Ghi chú"
+    },
+    "showMenu": {
+        "title": "Show menu",
+        "text": "Hiển thị menu",
+        "description": "Hiển thị menu"
+    },
+    "menuUrl": {
+        "title": "Menu url",
+        "text": "Liên kết",
+        "description": "Liên kết"
+    },
+    "devFunction": {
+        "title": "Developer function",
+        "text": "Chức năng thuộc developer",
+        "description": "Chức năng thuộc developer"
+    },
+    "adminFunction": {
+        "title": "Admin function",
+        "text": "Chức năng thuộc quản trị viên",
+        "description": "Chức năng thuộc quản trị viên"
+    },
+    "position": {
+        "title": "Position",
+        "text": "Vị trí",
+        "description": "Vị trí"
+    },
+    "pleaseEnterTitleFunction": {
+        "title": "Please enter title of function",
+        "text": "Vui lòng nhập tên chức năng",
+        "description": "Vui lòng nhập tên chức năng"
+    },
+    "pleaseEnterTitleEngFunction": {
+        "title": "Please enter title (eng) of function",
+        "text": "Vui lòng nhập tên chức năng (tiếng Anh)",
+        "description": "Vui lòng nhập tên chức năng (tiếng Anh)"
+    },
+    "pleaseEnterPosition": {
+        "title": "Please enter position for function",
+        "text": "Vui lòng nhập vị trí",
+        "description": "Vui lòng nhập vị trí"
+    },
+    "pleaseEnterIcon": {
+        "title": "Please enter icon",
+        "text": "Vui lòng nhập icon",
+        "description": "Vui lòng nhập icon"
+    },
+    "addFunctionSystem": {
+        "title": "Add function system",
+        "text": "Thêm mới chức năng hệ thống",
+        "description": "Thêm mới chức năng hệ thống"
+    },
+    "groupFunction": {
+        "title": "Group function",
+        "text": "Nhóm chức năng",
+        "description": "Nhóm chức năng"
+    },
+    "groupFunctionList": {
+        "title": "Group function list",
+        "text": "Danh sách nhóm chức năng",
+        "description": "Danh sách nhóm chức năng"
+    },
+    "groupFunctionName": {
+        "title": "Group function name",
+        "text": "Tên nhóm chức năng",
+        "description": "Tên nhóm chức năng"
+    },
+    "addNewGroupFunctionRoot": {
+        "title": "Add new group function root",
+        "text": "Thêm mới nhóm chức năng gốc",
+        "description": "Thêm mới nhóm chức năng gốc"
+    },
+    "addNewGroupFunction": {
+        "title": "Add new group function",
+        "text": "Thêm mới nhóm chức năng",
+        "description": "Thêm mới nhóm chức năng"
+    },
+    "updateGroupFunction": {
+        "title": "Update group function",
+        "text": "Cập nhật nhóm chức năng",
+        "description": "Cập nhật nhóm chức năng"
+    },
+    "functionGroupFunction": {
+        "title": "Function - Group function",
+        "text": "Chức năng - Nhóm chức năng",
+        "description": "Chức năng - Nhóm chức năng"
+    },
+    "functionGroupFunctionList": {
+        "title": "Function - Group function list",
+        "text": "Danh sách chức năng - Nhóm chức năng",
+        "description": "Danh sách chức năng - Nhóm chức năng"
+    },
+    "assignFunctionGroupFunction": {
+        "title": "Assign function into group function",
+        "text": "Phân chức năng vào nhóm chức năng",
+        "description": "Phân chức năng vào nhóm chức năng"
+    },
+    "assignFunctionGroupFunctionStats": {
+        "title": "Assign Function into Group function",
+        "text": "Phân CN vào Nhóm CN",
+        "description": "Phân CN vào Nhóm CN"
+    },
+    "selectGroupFunction": {
+        "title": "Select group function",
+        "text": "Chọn người dùng",
+        "description": "Chọn người dùng"
+    },
+    "pleasePickFunctionNeedAssignToGroupFunction": {
+        "title": "Please pick least a function need assign to group function",
+        "text": "Vui lòng chọn chức năng cần phân vào nhóm",
+        "description": "Vui lòng chọn chức năng cần phân vào nhóm"
+    },
+    "cancelAssignFnGFn": {
+        "title": "Cancel assign  Fn - GFn",
+        "text": "Hủy phân CN - NCN",
+        "description": "Hủy phân CN - NCN"
+    },
+    "areYouSureWantToCancelAssignThisFunctionInThisGroup": {
+        "title": "Are you sure want to cancel assign this function in this group?",
+        "text": "Bạn có chắc chắn muốn hủy phân chức năng này?",
+        "description": "Bạn có chắc chắn muốn hủy phân chức năng này?"
+    },
+    "pleasePickFunctionNeedCancelAssignInGroupFunction": {
+        "title": "Please pick least a function need cancel assign in group function",
+        "text": "Vui lòng chọn ít nhất 1 chức năng cần hủy phân cho nhóm",
+        "description": "Vui lòng chọn ít nhất 1 chức năng cần hủy phân cho nhóm"
+    },
+    "groupUser": {
+        "title": "Group user",
+        "text": "Nhóm người dùng",
+        "description": "Nhóm người dùng"
+    },
+    "groupUserList": {
+        "title": "Group user list",
+        "text": "Danh sách nhóm người dùng",
+        "description": "Danh sách nhóm người dùng"
+    },
+    "addNewGroupUser": {
+        "title": "Add new group user",
+        "text": "Thêm mới nhóm người dùng",
+        "description": "Thêm mới nhóm người dùng"
+    },
+    "pleaseEnterTitleGroupUser": {
+        "title": "Please enter title group user",
+        "text": "Vui lòng nhập tên nhóm người dùng",
+        "description": "Vui lòng nhập tên nhóm người dùng"
+    },
+    "pleaseEnterTitleEngGroupUser": {
+        "title": "Please enter title (eng) of group user",
+        "text": "Vui lòng nhập tên (tiếng Anh)  nhóm người dùng",
+        "description": "Vui lòng nhập tên (tiếng Anh)  nhóm người dùng"
+    },
+    "groupUserName": {
+        "title": "Group user name",
+        "text": "Tên nhóm người dùng",
+        "description": "Tên nhóm người dùng"
+    },
+    "groupUserNameEng": {
+        "title": "Group user name (eng)",
+        "text": "Tên nhóm người dùng (tiếng Anh)",
+        "description": "Tên nhóm người dùng (tiếng Anh)"
+    },
+    "groupFunctionNameEng": {
+        "title": "Group function name (eng)",
+        "text": "Tên nhóm chức năng (tiếng Anh)",
+        "description": "Tên nhóm chức năng (tiếng Anh)"
+    },
+    "updateGroupUser": {
+        "title": "Update group user",
+        "text": "Cập nhật nhóm người dùng",
+        "description": "Cập nhật nhóm người dùng"
+    },
+    "addNewGroupUserRoot": {
+        "title": "Add new group user root",
+        "text": "Thêm mới nhóm người dùng gốc",
+        "description": "Thêm mới nhóm người dùng gốc"
+    },
+    "userGroupUser": {
+        "title": "User - Group user",
+        "text": "Người dùng - Nhóm người dùng",
+        "description": "Người dùng - Nhóm người dùng"
+    },
+    "userGroupUserList": {
+        "title": "User - Group user list",
+        "text": "Danh sách ND - NND",
+        "description": "Danh sách ND - NND"
+    },
+    "selectGroupUser": {
+        "title": "Select group user",
+        "text": "Select group user",
+        "description": "Chọn nhóm người dùng"
+    },
+    "assignUserToGroupUser": {
+        "title": "Assign user to group user",
+        "text": "Phân ND vào NND",
+        "description": "Phân ND vào NND"
+    },
+    "cancelAssignUserInGroupUser": {
+        "title": "Cancel assign user in group user",
+        "text": "Hủy phân ND vào NND",
+        "description": "Hủy phân ND vào NND"
+    },
+    "pleaseSelectAUserNeedAssignToGroupUser": {
+        "title": "Please select a user need assign to group user",
+        "text": "Vui lòng chọn người dùng cần phân vào nhóm",
+        "description": "Vui lòng chọn người dùng cần phân vào nhóm"
+    },
+    "pleaseSelectAUserNeedCancelAssignInGroupUser": {
+        "title": "Please select a user need cancel assign in group user",
+        "text": "Vui lòng chọn người dùng cần hủy phân vào nhóm",
+        "description": "Vui lòng chọn người dùng cần hủy phân vào nhóm"
+    },
+    "areYouSureWantToCancelAssignUserParamInThisGroup": {
+        "title": "Are you sure want to cancel assign user {{name}} in this group?",
+        "text": "Bạn có chắc muốn hủy phân người dùng {{name}} khỏi nhóm này?",
+        "description": "Bạn có chắc muốn hủy phân người dùng {{name}} khỏi nhóm này?"
+    },
+    "groupFunctionGroupUser": {
+        "title": "Group function - Group user",
+        "text": "Nhóm chức năng - Nhóm người dùng",
+        "description": "Nhóm chức năng - Nhóm người dùng"
+    },
+    "groupFunctionGroupUserList": {
+        "title": "Group function - group user list",
+        "text": "Danh sách nhóm chức năng - nhóm người dùng",
+        "description": "Danh sách nhóm chức năng - nhóm người dùng"
+    },
+    "cancelAssignGroupFunctionInGroupUser": {
+        "title": "Cancel assign GFunciton - GUser",
+        "text": "Hủy phân NCN - NND",
+        "description": "Hủy phân NCN - NND"
+    },
+    "assignGroupFunctionToGroupUser": {
+        "title": "Assign GFunction - GUser",
+        "text": "Phân NCN - NND",
+        "description": "Phân NCN - NND"
+    },
+    "assignGroupFunctionGroupUser": {
+        "title": "Assign group function to group user",
+        "text": "Phân nhóm chức năng vào nhóm người dùng",
+        "description": "Phân nhóm chức năng vào nhóm người dùng"
+    },
+    "pleaseSelectAGroupFunctionNeedAssignToGroupUser": {
+        "title": "Please select a group function need assign to group user",
+        "text": "Vui lòng chọn nhóm chức năng cần phân cho nhóm người dùng",
+        "description": "Vui lòng chọn nhóm chức năng cần phân cho nhóm người dùng"
+    },
+    "pleaseSelectAGroupFunctionNeedCancelAssignInGroupUser": {
+        "title": "Please select a group function need cancel assign to group user",
+        "text": "Vui lòng chon nhóm chức năng cần hủy phân khỏi nhóm người dùng",
+        "description": "Vui lòng chon nhóm chức năng cần hủy phân khỏi nhóm người dùng"
+    },
+    "areYouSureWantToCancelAssignGroupFuctionParamInThisGroup": {
+        "title": "Are you sure want to cancel assign group function {{name}} in this group?",
+        "text": "Bạn có chắc muốn hủy phân nhóm chức năng {{name}} khỏi nhóm này?",
+        "description": "Bạn có chắc muốn hủy phân nhóm chức năng {{}} khỏi nhóm này?"
+    },
+    "cancelAssignFunctionForUser": {
+        "title": "Cancel assign function for user",
+        "text": "Hủy phân CN cho ND",
+        "description": "Hủy phân CN cho ND"
+    },
+    "assignFunctionForUser": {
+        "title": "Assign function for user",
+        "text": "Phân CN cho ND",
+        "description": "Phân CN cho ND"
+    },
+    "functionUser": {
+        "title": "Function user",
+        "text": "Chức năng người dùng",
+        "description": "Chức năng người dùng"
+    },
+    "functionUserList": {
+        "title": "Function user list",
+        "text": "Danh sách chức năng người dùng",
+        "description": "Danh sách chức năng người dùng"
+    },
+    "selectUser": {
+        "title": "Select user",
+        "text": "Chọn người dùng",
+        "description": "Chọn người dùng"
+    },
+    "toggleAll": {
+        "title": "Toggle All",
+        "text": "Chọn Tất Cả",
+        "description": "Chọn Tất Cả"
+    },
+    "pleasePickLeastAFunctionThatNeedAssignToUser": {
+        "title": "Please pick least a function that need assign to user",
+        "text": "Vui lòng chọn ít nhất 1 chức năng cần phân cho người dùng",
+        "description": "Vui lòng chọn ít nhất 1 chức năng cần phân cho người dùng"
+    },
+    "pleasePickLeastAFunctionThatNeedCancelAssignForUser": {
+        "title": "Please pick least a function that need cancel assign for user",
+        "text": "Vui lòng chọn ít nhất 1 chức năng cần hủy phân cho người dùng",
+        "description": "Vui lòng chọn ít nhất 1 chức năng cần hủy phân cho người dùng"
+    },
+    "areYouSureWantToCancelAssignThisFunction": {
+        "title": "Are you sure want to cancel assign this function?",
+        "text": "Bạn có chắc muốn hủy phân chức năng này?",
+        "description": "Bạn có chắc muốn hủy phân chức năng này?"
+    },
+    "assignFunctionToUser": {
+        "title": "Assign function to user",
+        "text": "Phân chức năng cho người dùng",
+        "description": "Phân chức năng cho người dùng"
+    },
+    "doYouWantToLeaveThisPage": {
+        "title": "Do you want to leave this page?",
+        "text": "Bạn có chắc muốn rời khỏi trang này?",
+        "description": "Bạn có chắc muốn rời khỏi trang này?"
+    },
+    "viewAll": {
+        "title": "View all",
+        "text": "Xem tất cả",
+        "description": "Xem tất cả"
+    },
+    "youDontHaveNotificationNow": {
+        "title": "You don't have notification now",
+        "text": "Bạn chưa có thông báo nào",
+        "description": "Bạn chưa có thông báo nào"
+    },
+    "newsCategory": {
+        "title": "News category",
+        "text": "Danh mục tin tức",
+        "description": "Danh mục tin tức"
+    },
+    "newsCategories": {
+        "title": "News categories",
+        "text": "Danh sách danh mục tin tức",
+        "description": "Danh sách danh mục tin tức"
+    },
+    "addNewsCategory": {
+        "title": "Add news category",
+        "text": "Thêm mới danh mục tin tức",
+        "description": "Thêm mới danh mục tin tức"
+    },
+    "pleaseEnterNewsCategoryName": {
+        "title": "Please enter news category name",
+        "text": "Vui lòng nhập tên danh mục tin tức",
+        "description": "Vui lòng nhập tên danh mục tin tức"
+    },
+    "addChildNewsCategory": {
+        "title": "Add child news category",
+        "text": "Thêm mới danh mục tin tức con",
+        "description": "Thêm mới danh mục tin tức con"
+    },
+    "editNewsCategory": {
+        "title": "Edit news category",
+        "text": "Cập nhật danh mục tin tức",
+        "description": "Cập nhật danh mục tin tức"
+    },
+    "news": {
+        "title": "News",
+        "text": "Tin tức",
+        "description": "Tin tức"
+    },
+    "newses": {
+        "title": "Newses",
+        "text": "Danh sách tin tức",
+        "description": "Danh sách tin tức"
+    },
+    "seclectCategory": {
+        "title": "Select category",
+        "text": "Chọn danh mục",
+        "description": "Chọn danh mục"
+    },
+    "author": {
+        "title": "Author",
+        "text": "Tác giả",
+        "description": "Tác giả"
+    },
+    "tags": {
+        "title": "Tags",
+        "text": "Tags",
+        "description": "Tags"
+    },
+    "addNews": {
+        "title": "Add news",
+        "text": "Thêm mới tin tức",
+        "description": "Thêm mới tin tức"
+    },
+    "newsName": {
+        "title": "News name",
+        "text": "Tên tin tức",
+        "description": "Tên tin tức"
+    },
+    "sourceName": {
+        "title": "Source name",
+        "text": "Tên nguồn",
+        "description": "Tên nguồn"
+    },
+    "sourceLink": {
+        "title": "Source link",
+        "text": "Link nguồn",
+        "description": "Link nguồn"
+    },
+    "pleaseEnterNameOfNews": {
+        "title": "Please enter name of news",
+        "text": "Vui lòng nhập tên tin tức",
+        "description": "Vui lòng nhập tên tin tức"
+    },
+    "pleaseSelectNewsCategory": {
+        "title": "Please select news category",
+        "text": "Vui lòng chọn danh mục tin tức",
+        "description": "Vui lòng chọn danh mục tin tức"
+    },
+    "pleaseEnterDescriptionForNews": {
+        "title": "Please enter description for news",
+        "text": "Vui lòng nhập mô tả cho tin tức",
+        "description": "Vui lòng nhập mô tả cho tin tức"
+    },
+    "pleaseEnterDetailForNews": {
+        "title": "Please enter detail for news",
+        "text": "Vui lòng nhập chi tiết tin tức",
+        "description": "Vui lòng nhập chi tiết tin tức"
+    },
+    "editNews": {
+        "title": "Edit news",
+        "text": "Cập nhật tin tức",
+        "description": "Cập nhật tin tức"
+    },
+    "stockName": {
+        "title": "Stock name",
+        "text": "Tên chủ đề",
+        "description": "Tên chủ đề"
+    },
+    "writeNews": {
+        "title": "Write news",
+        "text": "Viết bài",
+        "description": "Viết bài"
+    },
+    "controllerName": {
+        "title": "Controller name",
+        "text": "Controller",
+        "description": "Tên controller"
+    },
+    "actionName": {
+        "title": "Action name",
+        "text": "Action",
+        "description": "Action name"
+    },
+    "routeLink": {
+        "title": "Route link",
+        "text": "Route",
+        "description": "Route link"
+    },
+    "defineRangePriceFilter": {
+        "title": "Define range price filter",
+        "text": "Định nghĩa khoảng tiền",
+        "description": "Định nghĩa khoảng tiền"
+    },
+    "rangePriceFilter": {
+        "title": "Range price filter",
+        "text": "Định nghĩa khoảng tiền",
+        "description": "Định nghĩa khoảng tiền"
+    },
+    "rangePriceFilters": {
+        "title": "Range price filters",
+        "text": "Danh sách khoảng tiền",
+        "description": "Danh sách khoảng tiền"
+    },
+    "addRangePriceFilter": {
+        "title": "Add range price filter",
+        "text": "Thêm mới khoảng tiền",
+        "description": "Thêm mới khoảng tiền"
+    },
+    "assignPriceCategory": {
+        "title": "Assign price category",
+        "text": "Phân danh mục khoảng tiền",
+        "description": "Phân danh mục khoảng tiền"
+    },
+    "assign": {
+        "title": "Assign",
+        "text": "Phân công",
+        "description": "Phân công"
+    },
+    "cancelAssign": {
+        "title": "Cancel assign",
+        "text": "Hủy phân công",
+        "description": "Hủy phân công"
+    },
+    "notAssignYet": {
+        "title": "Not assign yet list",
+        "text": "DS chưa phân công",
+        "description": "DS chưa phân công"
+    },
+    "assignedList": {
+        "title": "Assigned list",
+        "text": "DS đã phân công",
+        "description": "DS đã phân công"
+    },
+    "pleaseSelectPriceCategoriesToAssign": {
+        "title": "Please select price categories to assign",
+        "text": "Vui lòng chọn danh mục khoảng tiền để phân công",
+        "description": "Vui lòng chọn danh mục khoảng tiền để phân công"
+    },
+    "pleaseSelectPriceCategoriesToCancelAssign": {
+        "title": "Please select price categories to cancel assign",
+        "text": "Vui lòng chọn danh mục khoảng tiền để hủy phân công",
+        "description": "Vui lòng chọn danh mục khoảng tiền để hủy phân công"
+    },
+    "save": {
+        "title": "Save",
+        "text": "Lưu",
+        "description": "Lưu"
+    },
+    "role": {
+        "title": "Role",
+        "text": "Role",
+        "description": "Role"
+    },
+    "selectRole": {
+        "title": "Select a role",
+        "text": "Chọn role",
+        "description": "Chọn role"
+    },
+    "editRangePriceFilter": {
+        "title": "Edit range price filter",
+        "text": "Chỉnh sửa khoảng tiền",
+        "description": "Chỉnh sửa khoảng tiền"
+    },
+    "slidesProductCategory": {
+        "title": "Slides product category",
+        "text": "Slide danh mục sản phẩm",
+        "description": "Slide danh mục sản phẩm"
+    },
+    "addSlidesProductCategory": {
+        "title": "Add slides product category",
+        "text": "Thêm slide danh mục sản phẩm",
+        "description": "Thêm slide danh mục sản phẩm"
+    },
+    "filters": {
+        "title": "Filters",
+        "text": "Danh sách bộ lọc",
+        "description": "Danh sách bộ lọc"
+    },
+    "_filter": {
+        "title": "Filter",
+        "text": "Bộ lọc",
+        "description": "Bộ lọc"
+    },
+    "queryString": {
+        "title": "Query string",
+        "text": "Query string",
+        "description": "Query string"
+    },
+    "dataInvalidFormat": {
+        "title": "Data invalid format",
+        "text": "Dữ liệu không hợp lệ",
+        "description": "Dữ liệu không hợp lệ"
+    },
+    "filterItems": {
+        "title": "Filter items",
+        "text": "Dữ liệu bộ lọc",
+        "description": "Dữ liệu bộ lọc"
+    },
+    "addFilterItem": {
+        "title": "Add filter item",
+        "text": "Thêm dữ liệu bộ lọc",
+        "description": "Thêm dữ liệu bộ lọc"
+    },
+    "assignFiltersToCategory": {
+        "title": "Assign filters to category",
+        "text": "Phân bộ lọc cho danh mục",
+        "description": "Phân bộ lọc cho danh mục"
+    },
+    "pleaseSelectFilterItemsToAsssign": {
+        "title": "Please select filter item to assign",
+        "text": "Vui lòng chọn dữ liệu bộ lọc cần phân",
+        "description": "Vui lòng chọn dữ liệu bộ lọc cần phân"
+    },
+    "success": {
+        "title": "Success",
+        "text": "Thành công",
+        "description": "Thành công"
+    },
+    "error": {
+        "title": "Error",
+        "text": "Đã xảy ra lỗi",
+        "description": "Đã xảy ra lỗi"
+    },
+    "informationPersonal": {
+        "title": "Information personal",
+        "text": "Thông tin cá nhân",
+        "description": "Thông tin cá nhân"
+    },
+    "confirmDelete": {
+        "title": "Confirm delete",
+        "text": "Xác nhận xóa",
+        "description": "Xác nhận xóa"
+    },
+    "refresh": {
+        "title": "Refresh",
+        "text": "Nhập lại",
+        "description": "Nhập lại"
+    },
+    "addFilter": {
+        "title": "Add filter",
+        "text": "Thêm mới bộ lọc",
+        "description": "Thêm mới bộ lọc"
+    },
+    "editFilter": {
+        "title": "Edit filter",
+        "text": "Cập nhật bộ lọc",
+        "description": "Cập nhật bộ lọc"
+    },
+    "pleaseEnterDataNotHaveSpecialChacterSpaceAndUnicode": {
+        "title": "Please enter data not have special chacter, white space and unicode",
+        "text": "Vui lòng nhập dữ liệu không chứa ký tự đặc biệt, khoảng trắng, và unicode",
+        "description": "Vui lòng nhập dữ liệu không chứa ký tự đặc biệt, khoảng trắng, và unicode"
+    },
+    "relatedFiters": {
+        "title": "Related filters",
+        "text": "Bộ lọc liên quan",
+        "description": "Bộ lọc liên quan"
+    },
+    "relatedFilterItems": {
+        "title": "Related filter items",
+        "text": "Danh sách liên quan",
+        "description": "Dữ liệu bộ lọc liên quan"
+    },
+    "editFilterItem": {
+        "title": "Edit filter item",
+        "text": "Cập nhật dữ liệu bộ lọc",
+        "description": "Cập nhật dữ liệu bộ lọc"
+    },
+    "metaTitle": {
+        "title": "Meta title",
+        "text": "Tiêu đề trang",
+        "description": "Tiêu đề trang"
+    },
+    "metaLink": {
+        "title": "Meta link",
+        "text": "Tên liên kết",
+        "description": "Tên liên kết"
+    },
+    "addNew": {
+        "title": "Add new",
+        "text": "Thêm mới",
+        "description": "Thêm mới"
+    },
+    "cancel": {
+        "title": "Cancel",
+        "text": "Hủy",
+        "description": "Hủy"
+    },
+    "related": {
+        "title": "Related",
+        "text": "Liên quan",
+        "description": "Liên quan"
+    },
+    "pleaseSelectBothBeginPromotionDateAndEndPromotionDate": {
+        "title": "Please select both begin promotion date & end promotion date",
+        "text": "Vui lòng cả hai ngày bắt đầu và ngày kết thúc khuyến mãi",
+        "description": "Vui lòng cả hai ngày bắt đầu và ngày kết thúc khuyến mãi"
+    },
+    "cart": {
+        "title": "Cart",
+        "text": "Giỏ hàng",
+        "description": "Giỏ hàng"
+    },
+    "readMore": {
+        "title:": "Read more",
+        "text": "Xem thêm",
+        "description": "Xem thêm"
+    },
+    "next": {
+        "title:": "Next",
+        "text": "Tiếp",
+        "description": "Tiếp"
+    },
+    "last": {
+        "title:": "Last",
+        "text": "Quay lại",
+        "description": "Quay lại"
+    },
+    "continueSearchProducts": {
+        "title:": "Continue search products",
+        "text": "Tiếp tục tìm kiếm sản phẩm",
+        "description": "Tiếp tục tìm kiếm sản phẩm"
+    },
+    "yourCart": {
+        "title:": "Your cart",
+        "text": "Giỏ hàng của bạn",
+        "description": "Giỏ hàng của bạn"
+    },
+    "removeFromCart": {
+        "title:": "Remove from cart",
+        "text": "Xóa khỏi giỏ hàng",
+        "description": "Xóa khỏi giỏ hàng"
+    },
+    "totalPriceMustPayment": {
+        "title:": "Total price must payment",
+        "text": "Tổng tiền phải thanh toán",
+        "description": "Tổng tiền phải thanh toán"
+    },
+    "freeShipping": {
+        "title:": "Free shipping",
+        "text": "* Miễn phí vận chuyển",
+        "description": "* Miễn phí vận chuyển"
+    },
+    "infomationCustomer": {
+        "title:": "Infomation customer",
+        "text": "Thông tin mua hàng",
+        "description": "Thông tin mua hàng"
+    },
+    "fullNameNeeded": {
+        "title:": "Full name (Needed)",
+        "text": "Họ và tên (Bắt buộc)",
+        "description": "Họ và tên (Bắt buộc)"
+    },
+    "numberPhoneNeeded": {
+        "title:": "Number phone (Needed)",
+        "text": "Số điện thoại (Bắt buộc)",
+        "description": "Số điện thoại (Bắt buộc)"
+    },
+    "shippingNote": {
+        "title:": "Shipping note",
+        "text": "Lưu ý khi giao",
+        "description": "Lưu ý khi giao"
+    },
+    "shippingAddressNeeded": {
+        "title:": "Shipping address (Needed)",
+        "text": "Địa chỉ nhận hàng (Bắt buộc)",
+        "description": "Địa chỉ nhận hàng (Bắt buộc)"
+    },
+    "paymentOnline": {
+        "title:": "Payment online",
+        "text": "Thanh toán online",
+        "description": "Thanh toán online"
+    },
+    "via": {
+        "title:": "via",
+        "text": "Qua",
+        "description": "Qua"
+    },
+    "OR": {
+        "title:": "OR",
+        "text": "HOẶC",
+        "description": "HOẶC"
+    },
+    "orderPaymentAfter": {
+        "title:": "Order payment after",
+        "text": "Đặt hàng thanh toán sau",
+        "description": "Đặt hàng thanh toán sau"
+    },
+    "payMoneyWhenRecivedAtHome": {
+        "title:": "Pay money when recived product at home",
+        "text": "Trả tiền khi nhận hàng tại nhà",
+        "description": "Trả tiền khi nhận hàng tại nhà"
+    },
+    "byOrderingYouAgreeToTheTermsOfUseAndReturnInstructions": {
+        "title:": "By ordering, you agree to the terms of use & return instructions",
+        "text": "Bằng cách đặt hàng, bạn đã đồng ý với điều khoản sử dụng và chính sách hoàn trả",
+        "description": "Bằng cách đặt hàng, bạn đã đồng ý với điều khoản sử dụng và chính sách hoàn trả"
+    },
+    "thereAreCurrentlyNoProductsInYourCart": {
+        "title:": "There aren't currently products in your cart",
+        "text": "Hiện tại không có sản phẩm nào trong giỏ hàng của bạn",
+        "description": "Hiện tại không có sản phẩm nào trong giỏ hàng của bạn"
+    },
+    "backToHome": {
+        "title:": "Back to home",
+        "text": "Quay lại trang chủ",
+        "description": "Quay lại trang chủ"
+    },
+    "rulesForPostingComments": {
+        "title:": "Rules for posting comments",
+        "text": "Quy định đăng bình luận",
+        "description": "Quy định đăng bình luận"
+    },
+    "send": {
+        "title:": "Send",
+        "text": "Gửi",
+        "description": "Gửi"
+    },
+    "informationUser": {
+        "title:": "Information user",
+        "text": "Thông tin người dùng",
+        "description": "Thông tin người dùng"
+    },
+    "emailToRecivedFeedbackViaEmail": {
+        "title:": "Email (To recived feedback via email)",
+        "text": "Email (để nhận phản hồi qua email)",
+        "description": "Email (để nhận phản hồi qua email)"
+    },
+    "postComment": {
+        "title:": "Post comment",
+        "text": "Gửi bình luận",
+        "description": "Gửi bình luận"
+    },
+    "askAndAnswer": {
+        "title:": "Ask and answer",
+        "text": "Hỏi và trả lời",
+        "description": "Hỏi và trả lời"
+    },
+    "comments": {
+        "title:": "Comments",
+        "text": "Bình luận",
+        "description": "Bình luận"
+    },
+    "replay": {
+        "title:": "Replay",
+        "text": "Trả lời",
+        "description": "Trả lời"
+    },
+    "rate": {
+        "title:": "rate",
+        "text": "đánh giá",
+        "description": "đánh giá"
+    },
+    "share": {
+        "title:": "share",
+        "text": "chia sẻ",
+        "description": "chia sẻ"
+    },
+    "buyProductFrom": {
+        "title:": "Buy product from",
+        "text": "Mua hàng từ",
+        "description": "Mua hàng từ"
+    },
+    "like": {
+        "title:": "like",
+        "text": "thích",
+        "description": "thích"
+    },
+    "listedPrice": {
+        "title:": "Listed price",
+        "text": "Giá niêm yết",
+        "description": "Giá niêm yết"
+    },
+    "installment0%": {
+        "title:": "Installment 0%",
+        "text": "Trả góp 0%",
+        "description": "Trả góp 0%"
+    },
+    "pickColorToViewRateAndStoreHasProducts": {
+        "title:": "Pick color to view rate and store has products",
+        "text": "Chọn màu để xem đánh giá và cửa hàng có sản phẩm",
+        "description": "Chọn màu để xem đánh giá và cửa hàng có sản phẩm"
+    },
+    "buyNow": {
+        "title:": "Buy now",
+        "text": "Mua ngay",
+        "description": "Mua ngay"
+    },
+    "shippingToHomeOrTakeOfTheStore": {
+        "title:": "Shipping to home or take of the store",
+        "text": "Giao hàng tại nhà hoạc lấy tại cửa hàng",
+        "description": "Giao hàng tại nhà hoạc lấy tại cửa hàng"
+    },
+    "approvalViaPhone": {
+        "title:": "Approval via phone",
+        "text": "Xét duyệt qua điện thoại",
+        "description": "Xét duyệt qua điện thoại"
+    },
+    "installment0%ViaCard": {
+        "title:": "Installment 0% via card",
+        "text": "Trả góp 0% qua thẻ",
+        "description": "Trả góp 0% qua thẻ"
+    },
+    "installment0%WithCardOfTheStore": {
+        "title:": "Installment 0% with card of the store",
+        "text": "Trả góp 0% với thẻ tín dụng tại cửa hàng",
+        "description": "Trả góp 0% với thẻ tín dụng tại cửa hàng"
+    },
+    "freeCall": {
+        "title:": "Free call",
+        "text": "Gọi miễn phí",
+        "description": "Gọi miễn phí"
+    },
+    "chatWithCounselor": {
+        "title:": "Chat with counselor",
+        "text": "Chat với nhân viên tư vấn",
+        "description": "Chat với nhân viên tư vấn"
+    },
+    "showLess": {
+        "title:": "Show less",
+        "text": "Ẩn bớt",
+        "description": "Ẩn bớt"
+    },
+    "relatedProducts": {
+        "title": "Related products",
+        "text": "Sản phẩm liên quan",
+        "description": "Sản phẩm liên quan"
+    },
+    "technidalData": {
+        "title": "Technical data",
+        "text": "Thông số kỹ thuật",
+        "description": "Thông số kỹ thuật"
+    },
+    "addToCart": {
+        "title": "Add to cart",
+        "text": "Thêm vào giỏ",
+        "description": "Thêm vào giỏ hàng"
+    },
+    "rememperPassword": {
+        "title": "Rememper password?",
+        "text": "Nhớ mật khẩu?",
+        "description": "Nhớ mật khẩu?"
+    },
+    "forgorPassword": {
+        "title": "Forgot password?",
+        "text": "Quên mật khẩu?",
+        "description": "Quên mật khẩu"
+    },
+    "doNotHaveAnAccount": {
+        "title": "Don't have an account?",
+        "text": "Bạn chưa có tài khoản?",
+        "description": "Bạn chưa có tài khoản"
+    },
+    "signUpNow": {
+        "title": "Sign up now",
+        "text": "Đăng ký ngay",
+        "description": "Đăng ký ngay"
+    },
+    "hotPromotions": {
+        "title": "Hot promotions",
+        "text": "Khuyến mãi hot",
+        "description": "Khuyến mãi hot"
+    },
+    "hotSales": {
+        "title": "Hot sales",
+        "text": "Hot sales",
+        "description": "Hot sales"
+    },
+    "partnerIncentives": {
+        "title": "Partner Incentives",
+        "text": "Ưu đãi đối tác",
+        "description": "Ưu đãi đối tác"
+    },
+    "happening": {
+        "title": "Happening",
+        "text": "Đang diễn ra",
+        "description": "Đang diễn ra"
+    },
+    "happened": {
+        "title": "Happened",
+        "text": "Đã kết thúc",
+        "description": "Đã kết thúc"
+    },
+    "thereAreNotCurrentlyYetHotPromotionPleaseReferOtherPrograms": {
+        "title": "There aren't currently yet hot promotion, please refer other programs",
+        "text": "Hiện tại chưa có khuyến mãi hot, vui lòng tham khảo chương trình khác",
+        "description": "Hiện tại chưa có khuyến mãi hot, vui lòng tham khảo chương trình khác"
+    },
+    "daylefts": {
+        "title": "Day lefts",
+        "text": "Còn lại",
+        "description": "Còn lại"
+    },
+    "day": {
+        "title": "day",
+        "text": "ngày",
+        "description": "ngày"
+    },
+    "thereAreNotCurrentlyYetProgramPromotionPleaseReferOtherPrograms": {
+        "title": "There aren't currently yet program promotion, please refer other programs",
+        "text": "Hiện tại chưa có chương trình khuyến mãi, vui lòng tham khảo chương trình khác",
+        "description": "Hiện tại chưa có chương trình khuyến mãi, vui lòng tham khảo chương trình khác"
+    },
+    "thereAreNotCurrentlyYetProductHotSalesPleaseReferOtherPrograms": {
+        "title": "There aren't currently product hot sales, please refer other programs",
+        "text": "Hiện tại chưa có sản phẩm hot sales, vui lòng tham khảo chương trình khác",
+        "description": "Hiện tại chưa có sản phẩm hot sales, vui lòng tham khảo chương trình khác"
+    },
+    "messageHolderInputComment": {
+        "title": "Please leave a question, CellphoneS will answer in 1 hour from 8am - 10pm everyday",
+        "text": "Xin mời để lại câu hỏi, CellphoneS sẽ trả lời trong 1h từ 8h - 22h mỗi ngày",
+        "description": "Xin mời để lại câu hỏi, CellphoneS sẽ trả lời trong 1h từ 8h - 22h mỗi ngày"
+    },
+    "changeLanguage": {
+        "title": "Change language",
+        "text": "Thay đổi ngôn ngữ sang: {{lang}}",
+        "description": "Thay đổi ngôn ngữ"
+    },
+    "source": {
+        "title": "Source",
+        "text": "Source",
+        "description": "Sources"
+    },
+    "tag": {
+        "title": "Tag",
+        "text": "Tag",
+        "description": "Tag"
+    },
+    "relatedNews": {
+        "title": "Related news",
+        "text": "Bài viết liên quan",
+        "description": "Bài viết liên quan"
+    },
+    "latest": {
+        "title": "Latest",
+        "text": "Mới nhất",
+        "description": "Mới nhất"
+    },
+    "oldest": {
+        "title": "Oldest",
+        "text": "Cũ nhất",
+        "description": "Cũ nhất"
+    },
+    "orderBy": {
+        "title": "Order by",
+        "text": "Sắp xếp theo",
+        "description": "Sắp xếp theo"
+    },
+    "hotStocks": {
+        "title": "HOT stocks",
+        "text": "Chủ đề HOT",
+        "description": "Chủ đề HOT"
+    },
+    "hotProducts": {
+        "title": "HOT products",
+        "text": "Sản phẩm HOT",
+        "description": "Sản phẩm HOT"
+    },
+    "loadMore": {
+        "title": "Load more",
+        "text": "Xem thêm",
+        "description": "Xem thêm"
+    },
+    "filterCategory": {
+        "title": "Filter",
+        "text": "Bộ lọc",
+        "description": "Bộ lọc"
+    },
+    "all": {
+        "title": "All",
+        "text": "Tất cả",
+        "description": "Tất cả"
+    },
+    "priceRange": {
+        "title": "Price range",
+        "text": "Phạm vi giá",
+        "description": "Phạm vi giá"
+    },
+    "checkout": {
+        "title": "Checkout",
+        "text": "Thanh toán",
+        "description": "Thanh toán"
+    },
+    "promotionList": {
+        "title": "Promotion list",
+        "text": "Danh sách khuyến mãi",
+        "description": "Danh sách khuyến mãi"
+    },
+    "youDoNotHaveNotificationCurrently": {
+        "title": "You don't have notificaion currently !!!",
+        "text": "Hiện tại bạn không có thông báo nào !!!",
+        "description": "Hiện tại bạn không có thông báo nào !!!"
+    },
+    "confirmOrders": {
+        "title": "Confirm orders",
+        "text": "Xác nhận đơn hàng",
+        "description": "Xác nhận đơn hàng"
+    },
+    "contact": {
+        "title": "Contact",
+        "text": "Danh bạ",
+        "description": "Danh bạ"
+    }
+}

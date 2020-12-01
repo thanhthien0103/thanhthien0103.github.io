@@ -2168,5 +2168,10 @@
         "title": "Contact",
         "text": "Contact",
         "description": "Danh bạ"
+    },
+    "theResultSearchForParam": {
+        "title": "The result search for '{{query}}'",
+        "text": "The result search for '{{query}}'",
+        "description": "The result search for parameter"
     }
 }

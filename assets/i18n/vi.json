@@ -2173,5 +2173,10 @@
         "title": "Contact",
         "text": "Danh bạ",
         "description": "Danh bạ"
+    },
+    "theResultSearchForParam": {
+        "title": "The result search for '{{query}}'",
+        "text": "Kết quả tìm kiếm cho '{{query}}'",
+        "description": "The result search for parameter"
     }
 }

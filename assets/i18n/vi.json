@@ -2178,5 +2178,10 @@
         "title": "The result search for '{{query}}'",
         "text": "Kết quả tìm kiếm cho '{{query}}'",
         "description": "The result search for parameter"
+    },
+    "noResultReturn": {
+        "title": "No result return",
+        "text": "Không có kết quả trả về",
+        "description": "Không có kết quả trả về"
     }
 }

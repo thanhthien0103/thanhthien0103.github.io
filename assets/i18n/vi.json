@@ -2183,5 +2183,10 @@
         "title": "No result return",
         "text": "Không có kết quả trả về",
         "description": "Không có kết quả trả về"
+    },
+    "markAsRead": {
+        "title": "Mark as read",
+        "text": "Đánh dấu đã đọc",
+        "description": "Đánh dấu đã đọc"
     }
 }

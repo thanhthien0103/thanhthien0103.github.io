@@ -91,7 +91,7 @@
     },
     "upload": {
         "title": "Upload",
-        "text": "Cập nhật",
+        "text": "Tải lên",
         "description": "Cập nhật hình ảnh"
     },
     "logout": {
@@ -2188,5 +2188,45 @@
         "title": "Mark as read",
         "text": "Đánh dấu đã đọc",
         "description": "Đánh dấu đã đọc"
+    },
+    "selectIcons": {
+        "title": "Select icons",
+        "text": "Chọn icon",
+        "description": "Chọn icon"
+    },
+    "productPhotoGallery": {
+        "title": "Product photo gallery",
+        "text": "Thư viện ảnh sản phẩm",
+        "description": "Thư viện ảnh sản phẩm"
+    },
+    "mediaType": {
+        "title": "Media type",
+        "text": "Loại phương tiện",
+        "description": "Loại phương tiện"
+    },
+    "mediaUrl": {
+        "title": "Media url",
+        "text": "Liên kết",
+        "description": "Liên kết"
+    },
+    "media": {
+        "title": "Media",
+        "text": "Media",
+        "description": "Media"
+    },
+    "addProductPhotoGallery": {
+        "title": "Add product photo gallery",
+        "text": "Thêm mới thư viện ảnh sản phẩm",
+        "description": "Thêm mới thư viện ảnh sản phẩm"
+    },
+    "editProductPhotoGallery": {
+        "title": "Edit product photo gallery",
+        "text": "Cập nhật thư viện ảnh sản phẩm",
+        "description": "Cập nhật thư viện ảnh sản phẩm"
+    },
+    "video": {
+        "title": "Video",
+        "text": "Video",
+        "description": "Video"
     }
 }

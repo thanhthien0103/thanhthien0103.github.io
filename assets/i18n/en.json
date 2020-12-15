@@ -2183,5 +2183,45 @@
         "title": "Mark as read",
         "text": "Mark as read",
         "description": "Đánh dấu đã đọc"
+    },
+    "selectIcons": {
+        "title": "Select icons",
+        "text": "Select icons",
+        "description": "Chọn icon"
+    },
+    "productPhotoGallery": {
+        "title": "Product photo gallery",
+        "text": "Product photo gallery",
+        "description": "Thư viện ảnh sản phẩm"
+    },
+    "mediaType": {
+        "title": "Media type",
+        "text": "Media type",
+        "description": "Loại phương tiện"
+    },
+    "mediaUrl": {
+        "title": "Media url",
+        "text": "Media url",
+        "description": "Liên kết"
+    },
+    "media": {
+        "title": "Media",
+        "text": "Media",
+        "description": "Media"
+    },
+    "addProductPhotoGallery": {
+        "title": "Add product photo gallery",
+        "text": "Add product photo gallery",
+        "description": "Thêm mới thư viện ảnh sản phẩm"
+    },
+    "editProductPhotoGallery": {
+        "title": "Edit product photo gallery",
+        "text": "Edit product photo gallery",
+        "description": "Cập nhật thư viện ảnh sản phẩm"
+    },
+    "video": {
+        "title": "Video",
+        "text": "Video",
+        "description": "Video"
     }
 }

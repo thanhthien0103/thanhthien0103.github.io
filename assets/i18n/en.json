@@ -2223,5 +2223,20 @@
         "title": "Video",
         "text": "Video",
         "description": "Video"
+    },
+    "settingApp": {
+        "title": "Setting app",
+        "text": "Setting app",
+        "description": "Cài đặt ứng dụng"
+    },
+    "titlePage": {
+        "title": "Title page",
+        "text": "Title page",
+        "Description": "Tiêu đề trang"
+    },
+    "titlePageEn": {
+        "title": "Title page eng",
+        "text": "Title page eng",
+        "Description": "Tiêu đề trang (Tiếng anh)"
     }
 }

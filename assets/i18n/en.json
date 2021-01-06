@@ -2238,5 +2238,20 @@
         "title": "Title page eng",
         "text": "Title page eng",
         "Description": "Tiêu đề trang (Tiếng anh)"
+    },
+    "productReviewVideo": {
+        "title": "Product review video",
+        "text": "Product review video",
+        "description": "Product review video"
+    },
+    "addProductReviewVideo": {
+        "title": "Add product review video",
+        "text": "Add product review video",
+        "description": "Add product review video"
+    },
+    "editProductReviewVideo": {
+        "title": "Edit product review video",
+        "text": "Edit product review video",
+        "description": "Edit product review video"
     }
 }

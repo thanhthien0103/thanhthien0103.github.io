@@ -2253,5 +2253,70 @@
         "title": "Edit product review video",
         "text": "Edit product review video",
         "description": "Edit product review video"
+    },
+    "productReviewVideoList": {
+        "title": "Product review video list",
+        "text": "Product review video list",
+        "description": "Các video đánh giá sản phẩm"
+    },
+    "newsAboutProduct": {
+        "title": "News about product",
+        "text": "News about product",
+        "description": "Bài viết về sản phẩm"
+    },
+    "createArticles": {
+        "title": "Create articles",
+        "text": "Create articles",
+        "description": "Tạo bài viết"
+    },
+    "editArticles": {
+        "title": "Edit articles",
+        "text": "Edit articles",
+        "description": "Chỉnh sửa bài viết"
+    },
+    "newsAbout": {
+        "title": "News about",
+        "text": "News about",
+        "description": "Tin tức về"
+    },
+    "selectArticles": {
+        "title": "Select articles",
+        "text": "Select articles",
+        "description": "Chọn bài viết"
+    },
+    "currentlyParamStoresHaveProductsAvailable": {
+        "title": "Currently {{numberOf}} stores have product available",
+        "text": "Currently {{numberOf}} stores have product available",
+        "description": "Hiện tại {{numberOf}} cửa hàng có sẵn sản phẩm"
+    },
+    "theStoreAlsoHasProducts": {
+        "title": "The store also has products",
+        "text": "The store also has products",
+        "description": "Cửa hàng còn sản phẩm"
+    },
+    "clickToDirectAddress": {
+        "title": "Click to drirect address",
+        "text": "Click to drirect address",
+        "description": "Bấm xem dẫn đường"
+    },
+    "district": {
+        "title": "District",
+        "text": "District",
+        "description": "Quận/Huyện"
+    },
+    "stores": {
+        "title": "Stores",
+        "text": "Stores",
+        "description": "Danh sách cửa hàng"
+    },
+    "store": {
+        "title": "Store",
+        "text": "Store",
+        "description": "Cửa hàng"
+    },
+    "code": {
+        "title": "Code",
+        "text": "Code",
+        "description": "Mã"
     }
 }

@@ -2318,5 +2318,35 @@
         "title": "Code",
         "text": "Code",
         "description": "Mã"
+    },
+    "addStore": {
+        "title": "Add store",
+        "text": "Add store",
+        "description": "Thêm mới cửa hàng"
+    },
+    "editStore": {
+        "title": "Edit store",
+        "text": "Edit store",
+        "description": "Chỉnh sửa thông tin cửa hàng"
+    },
+    "country": {
+        "title": "Country",
+        "text": "Country",
+        "description": "Quốc gia"
+    },
+    "province": {
+        "title": "Province",
+        "text": "Province",
+        "description": "Tỉnh/Thành"
+    },
+    "ward": {
+        "title": "Ward",
+        "text": "Ward",
+        "description": "Phường/Xã"
+    },
+    "streetName": {
+        "title": "Street name",
+        "text": "Street name",
+        "description": "Tên đường"
     }
 }

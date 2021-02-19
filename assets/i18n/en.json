@@ -2348,5 +2348,30 @@
         "title": "Street name",
         "text": "Street name",
         "description": "Tên đường"
+    },
+    "clientPage": {
+        "title": "Client page",
+        "text": "Client page",
+        "description": "Trang khách hàng"
+    },
+    "productStore": {
+        "title": "Product store",
+        "text": "Product store",
+        "description": "Sản phẩm trong cửa hàng"
+    },
+    "pickAStoreToUpdateProduct": {
+        "title": "Pick a store to update product",
+        "text": "Pick a store to update product",
+        "description": "Chọn cửa hàng cập nhật sản phẩm"
+    },
+    "storeList": {
+        "title": "Store list",
+        "text": "Store list",
+        "description": "Danh sách cửa hàng"
+    },
+    "buyFrom": {
+        "title": "Buy from",
+        "text": "Buy from",
+        "description": "Mua hàng từ"
     }
 }
